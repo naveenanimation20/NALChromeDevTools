@@ -10,7 +10,6 @@
 	<version>1.0</version>
 
 	<name>NAL-CDP</name>
-	<!-- FIXME change it to the project's website -->
 	<url>http://maven.apache.org</url>
 
 	<licenses>
